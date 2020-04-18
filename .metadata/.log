@@ -718,3 +718,6 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 
 !ENTRY org.eclipse.recommenders.models.rcp 1 0 2020-04-17 20:24:20.761
 !MESSAGE org.eclipse.recommenders:index::zip:0.0.0 could not be resolved from the model repositories. Are you offline?
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2020-04-17 20:48:43.519
+!MESSAGE No repository found at http://download.eclipse.org/recommenders/updates/stable/.
